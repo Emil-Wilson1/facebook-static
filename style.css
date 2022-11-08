@@ -1,0 +1,164 @@
+.header{
+    width: 100%;
+    height:100px;
+    display: block;
+    margin: 0 auto;
+    background:#e9ebee;
+}
+.logo-img{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+.content{
+    background-color: #e9ebee;
+    height: 640px;
+}
+.main-box{
+    background:rgb(253, 253, 252) ;
+    width: 400px;
+    height: 550px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.create{
+    color:#333;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    line-height: 32px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+.easy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: ;
+    color: #4b4f57;
+}
+.signup-controls{
+    text-align: center;
+}
+input[type="text"]{
+    height: 35px;
+   padding-left: 10px;
+  
+
+}
+.Mobile{
+    text-align: center;
+   
+}
+input[type="number"]{
+    text-align: left;
+    width: 90%;
+    height: 35px;
+    display: block;
+    margin: 0 auto;
+}
+.Password{
+    text-align: center;
+}
+input[type="password"]{
+    text-align: left;
+    width: 90%;
+    height: 35px;
+    display: block;
+    margin: 0 auto;
+}
+.dob{
+    margin-left: 5px;
+    
+    
+}
+.db{
+    margin-left: 5px;
+    width: 29%;
+    height: 35px;
+    
+    
+}
+.b{
+    width: 29%;
+    height: 35px;
+    
+
+}
+.d{
+    width: 29%;
+    height: 35px;
+
+}
+.gray{
+    margin-left: 10px;
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+.font{
+    margin-left: 10px;
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+.font2{
+    margin-left: 10px;
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+}
+.btn{
+    display: block;
+    margin: 0 auto;
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+}
+.finalLine{
+    text-align: center;
+    color: #1877f2;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    
+}
+.footer{
+    color: #385898;
+    cursor: pointer;
+    font-family: inherit;
+   padding-left: 5%;
+   font-size: 14px;
+}
+.last{
+    padding-left: 5%;
+
+}
+.copyright{
+    padding-left: 5%;
+    color: #737373;
+    font-size: 12px;
+}
